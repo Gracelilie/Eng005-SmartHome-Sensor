@@ -1,4 +1,4 @@
-# ENGR005: ECE Lab #3/#4 (Smart Home)
+# ENGR005: ECE Lab #3 (Transfering data to web application)
 **Grace-lilie Acheampong**
 **Fall 2024**
 
